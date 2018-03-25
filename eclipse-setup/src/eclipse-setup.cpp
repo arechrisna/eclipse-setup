@@ -7,9 +7,10 @@
 //============================================================================
 
 #include <iostream>
+#include <cstdio>
 using namespace std;
 
 int main() {
-	cout << "" << endl; // prints 
+	puts("");
 	return 0;
 }
