@@ -3,7 +3,6 @@
 // Author      : christian espinoza
 // Version     :
 // Copyright   : confidential and propietary
-// Description :
 //============================================================================
 
 #include <iostream>
