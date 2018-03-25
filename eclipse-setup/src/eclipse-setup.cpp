@@ -11,6 +11,6 @@
 using namespace std;
 
 int main() {
-	puts("");
+	printf("hi\n");
 	return 0;
 }
