@@ -3,7 +3,7 @@
 // Author      : christian espinoza
 // Version     :
 // Copyright   : confidential and propietary
-// Description : Hello World in C++, Ansi-style
+// Description :
 //============================================================================
 
 #include <iostream>
